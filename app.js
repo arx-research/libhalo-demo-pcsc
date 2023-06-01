@@ -1,5 +1,5 @@
 const {NFC} = require('nfc-pcsc');
-const {execHaloCmdPCSC} = require('@arx-research/libhalo');
+const {execHaloCmdPCSC} = require('@arx-research/libhalo/api/desktop.js');
 
 const nfc = new NFC();
 
