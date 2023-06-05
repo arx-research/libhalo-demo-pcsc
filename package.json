@@ -2,7 +2,7 @@
   "name": "libhalo-example-pcsc",
   "version": "1.0.0",
   "dependencies": {
-    "@arx-research/libhalo": "^1.2.0",
+    "@arx-research/libhalo": "^1.2.2",
     "nfc-pcsc": "^0.8.1"
   }
 }
